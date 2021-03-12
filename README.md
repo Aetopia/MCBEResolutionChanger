@@ -66,4 +66,12 @@ If the MCBE Resolution Changer doesn't work then do the following.
 
 ## Does the application improve performance or FPS?
 You can see the attached pdf file for proof.
+## MCBE Resolution Changer Features
+
+1. Dynamically changes your screen resolution when MCBE is launched.
+2. Reverts back to your screen's native resolution if the game is inactive or closed.
+3. Works sliently in the background.
+4. Works with all Minecraft Bedrock Edition Versions (1.2 and above)
+
+##Download
 
