@@ -86,4 +86,4 @@ You can see the attached pdf file for proof.
  
 ## Can I use this application in my projects?
 Yes, feel free to use and edit the source ahk file. You can also integrate it into your projects as long as you credit me for the source ahk file.
-
+[View source AHK File](https://github.com/MandaTheAnda/MCBEResolutionChanger/blob/main/MCBERes.ahk)
