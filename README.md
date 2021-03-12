@@ -76,4 +76,4 @@ You can see the attached pdf file for proof.
 4. Works with all Minecraft Bedrock Edition Versions (1.2 and above)
 
 ## Download
-[Download latest version of the MCBE Resolution Changer] (https://github.com/MandaTheAnda/MCBEResolutionChanger/raw/main/MCBERes64Bit.exe)
+[Download latest version of the MCBE Resolution Changer](https://github.com/MandaTheAnda/MCBEResolutionChanger/raw/main/MCBERes64Bit.exe)
