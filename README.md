@@ -12,7 +12,7 @@ Its simple and easy to setup.
 2. Then double click on it to start up the MCBE Resolution Changer.
 3. An options.ini file should generate when the application starts.
 4. Click on it and open it up with notepad.
-5. This is you should see in the file;
+5. This is what you should see in the file;
 ```
 [MC_Resolution]
 MC_Width=0
