@@ -2,7 +2,7 @@
 
 ## Introduction
 The MCBE Resolution Changer is a utility that dynamically changes your screen resolution to a low resolution whenever MCBE is launched.
-MCBE doesn't allow the ability to be played at low resolutions unless you change your display resolution in windows settings which forces the game to scale down to a lower resolution. The MCBE Resolution Changer automates this process changes your screen resolution whenever MCBE is launched and reverts your screen resolution to its native resolution whenever the game window is inactive or closed.
+MCBE does not allow the ability to be played at low resolutions unless you change your display resolution in windows settings which forces the game to scale down to a lower resolution. The MCBE Resolution Changer automates this process by changing your screen resolution whenever MCBE is launched and reverting your screen resolution to its native resolution whenever the game window is inactive or closed.
 
 ## How to use the MCBE Resolution Changer?
 
