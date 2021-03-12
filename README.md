@@ -25,7 +25,7 @@ Color_Depth=32
 [Debug]
 Enable_Debugging=0
 ```
-6. The MC_Width and MC_Height keys stores the height and width of your preferred MCBE Resolution.
+6. The MC_Width and MC_Height keys store the height and width of your preferred MCBE Resolution.
 You can use any resolution as long as your display supports it.
 Recommended Resolutions:
 1280x720 and 1600x900
@@ -42,8 +42,8 @@ Color_Depth=32
 [Debug]
 Enable_Debugging=0
 ```
-7. The Height, Width and Refresh Rate keys store the height and width of your screen native resolution and refresh rate.
-Just enter the height, width and refresh rate your display into these keys;
+7. The Height, Width and Refresh Rate keys store the height and width of your screen's native resolution and refresh rate.
+Just enter the height, width and refresh rate of your display into these keys;
  ```
 [MC_Resolution]
 MC_Width=1280
@@ -62,7 +62,7 @@ Enable_Debugging=0
 If the MCBE Resolution Changer doesn't work then do the following.
 
 1. Verify if all values in the options.ini are correct.
-2. Ensure the application "MCBERes64Bit.exe" is running the background.
+2. Ensure the application "MCBERes64Bit.exe" is running in the background.
 
 ## Does the application improve performance or FPS?
 You can see the attached pdf file for proof.
