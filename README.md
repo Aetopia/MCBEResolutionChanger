@@ -85,5 +85,5 @@ You can see the attached pdf file for proof.
    A: Create a shortcut of the application and then move the file to your account's startup folder. (Enter shell:startup in the file pathbar) 
  
 ## Can I use this application in my projects?
-Yes, feel free to use and the source ahk file and integrate it into your projects as long as you credit me for the source ahk file.
+Yes, feel free to use and edit the source ahk file. You can also integrate it into your projects as long as you credit me for the source ahk file.
 
