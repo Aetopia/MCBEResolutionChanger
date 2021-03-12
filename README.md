@@ -77,3 +77,13 @@ You can see the attached pdf file for proof.
 
 ## Download
 [Download the latest version of the MCBE Resolution Changer](https://github.com/MandaTheAnda/MCBEResolutionChanger/raw/main/MCBERes64Bit.exe)
+
+## FAQ
+
+1. Will this work on any system? A: Yes, it will work on any Windows 10 device.
+2. How to add the application to startup? 
+   A: Create a shortcut of the application and then move the file to your account's startup folder. (Enter shell:startup in the file pathbar) 
+ 
+## Can I use this application in my projects?
+Yes, feel free to use and the source ahk file and integrate it into your projects as long as you credit me for the source ahk file.
+
