@@ -66,6 +66,8 @@ If the MCBE Resolution Changer doesn't work then do the following.
 
 ## Does the application improve performance or FPS?
 You can see the attached pdf file for proof.
+[Download PDF](https://github.com/MandaTheAnda/MCBEResolutionChanger/raw/main/performance.pdf)
+
 ## MCBE Resolution Changer Features
 
 1. Dynamically changes your screen resolution when MCBE is launched.
@@ -74,4 +76,4 @@ You can see the attached pdf file for proof.
 4. Works with all Minecraft Bedrock Edition Versions (1.2 and above)
 
 ## Download
-
+[Download latest version of the MCBE Resolution Changer] (https://github.com/MandaTheAnda/MCBEResolutionChanger/raw/main/MCBERes64Bit.exe)
