@@ -1,4 +1,3 @@
-﻿; Made by MandaTheAnda. Discord: MandaTheAnda#6723
 ; Application Properties
 #NoTrayIcon
 #Persistent
@@ -13,9 +12,12 @@ IniRead, D, options.ini, Debug, Enable_Debugging, Default
 If (MC_W = "Default" and MC_H = "Default" and W = "Default" and H = "Default" and R = "Default" and D ="Default"){
 	IniWrite, 0, options.ini, MC_Resolution, MC_Width
 	IniWrite, 0, options.ini, MC_Resolution, MC_Height
-	IniWrite, 0, options.ini, Screen_Resolution, Width
-	IniWrite, 0, options.ini, Screen_Resolution, Height 
-	IniWrite, 0, options.ini, Screen_Resolution, Refresh_Rate
+        VarSetCapacity(dM,156,0), NumPut(156,2,&dM,36)
+        DllCall( "EnumDisplaySettingsA", UInt,0, UInt,-1, UInt,&dM )
+        GRR = % "" . NumGet(&dM, 120)
+        IniWrite, %A_ScreenWidth%, options.ini, Screen_Resolution, Width
+        IniWrite, %A_ScreenHeight%, options.ini, Screen_Resolution, Height
+        IniWrite, %GRR%, options.ini, Screen_Resolution, Refresh_Rate
 	IniWrite, 32, options.ini, Screen_Resolution, Color_Depth
 	IniWrite, 0, options.ini, Debug, Enable_Debugging
 }
