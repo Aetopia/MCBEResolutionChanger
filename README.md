@@ -49,7 +49,7 @@ Enable_Debugging=0
 If the MCBE Resolution Changer doesn't work then do the following.
 
 1. Verify if all values in the options.ini are correct.
-2. Ensure the application "MCBERes64Bit.exe" is running in the background.
+2. Ensure the application "MCBERes.exe" is running in the background.
 
 ## Does the application improve performance or FPS?
 You can see the attached pdf file for proof.
@@ -61,9 +61,6 @@ You can see the attached pdf file for proof.
 2. Reverts back to your screen's native resolution if the game is inactive or closed.
 3. Works sliently in the background.
 4. Works with all Minecraft Bedrock Edition Versions (1.2 and above)
-
-## Download
-[Download the latest version of the MCBE Resolution Changer](https://github.com/MandaTheAnda/MCBEResolutionChanger/raw/main/MCBERes64Bit.exe)
 
 ## FAQ
 
