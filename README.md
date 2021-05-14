@@ -42,21 +42,8 @@ Color_Depth=32
 [Debug]
 Enable_Debugging=0
 ```
-7. The Height, Width and Refresh Rate keys store the height and width of your screen's native resolution and refresh rate.
-Just enter the height, width and refresh rate of your display into these keys;
- ```
-[MC_Resolution]
-MC_Width=1280
-MC_Height=720
-[Screen_Resolution]
-Width=1920
-Height=1080
-Refresh_Rate=60
-Color_Depth=32
-[Debug]
-Enable_Debugging=0
-```
-8. Now save the file and launch MCBE. The game will scale down to your preferred resolution whenever launched.
+
+7. Now save the file and launch MCBE. The game will scale down to your preferred resolution whenever launched.
 
 ### Troubleshooting
 If the MCBE Resolution Changer doesn't work then do the following.
